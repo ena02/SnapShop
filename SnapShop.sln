@@ -9,6 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{D3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapShop.Product.API", "SnapShop.Product.API\SnapShop.Product.API.csproj", "{575CB7C9-AFE1-4806-BB2E-A1442B5F4375}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{40FAF3D8-386B-4685-A4B0-D42B12A7C4BA}"
+	ProjectSection(SolutionItems) = preProject
+		microservices-structure.md = microservices-structure.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
