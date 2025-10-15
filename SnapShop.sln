@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{40FAF3D8-3
 		microservices-structure.md = microservices-structure.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapShop.Products.API1", "SnapShop.Products.API1\SnapShop.Products.API1.csproj", "{3E2DEDEB-E58C-4B2E-827F-E3AB031B6BD7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapShop.Products.API", "SnapShop.Products.API\SnapShop.Products.API.csproj", "{3E2DEDEB-E58C-4B2E-827F-E3AB031B6BD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
